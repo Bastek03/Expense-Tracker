@@ -1,0 +1,29 @@
+.balance {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.container {
+    background-color: white;
+    height: 100px;
+    display: flex;
+    border-radius: 6px;
+    box-shadow: 4px 4px 10px grey;
+}
+
+.verticalLine {
+    border-left: 3px solid grey;
+    height: 80px;
+    margin-top: 10px;
+    border-radius: 16px;
+}
+
+.tile {
+    width: 48%;
+    text-align: center;
+}
+
+.cash {
+    margin: 0;
+    color: green;
+}
